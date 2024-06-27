@@ -11,7 +11,7 @@ The objective is simple: Have a fully functional web page that looks the same as
 
 ## Viewing
 
-View the Website here [Smiling school](http://127.0.0.1:5500/alu-smiling-school-main/homepage.html)
+View the Website here [Smiling school](https://n-uwayo.github.io/alu-smiling-school/homepage.html)
 
 ![Screenshot 2024-06-27 221527](https://github.com/n-uwayo/alu-smiling-school/assets/122350054/269f55b1-e1ce-4521-949b-80cceda74ef5)
 
